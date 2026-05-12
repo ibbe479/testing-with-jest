@@ -9,8 +9,8 @@ exports.push = function (x) {
 
 // Returnerar det översta elementet i stacken och tar bort det
 exports.pop = function () {
-    //return stack.pop();
-    console.log("vi sparar inget för att mislycass på testet ")
+    return stack.pop();
+    
 }
 
 // Returnerar det översta elementet i stacken
